@@ -1,3 +1,5 @@
+**This branch is not developed, check out rewrite branch for updates**
+
 # starlight
 
 Starlight is a JS engine in Rust which focuses on performance rather than ensuring 100% safety of JS runtime.
